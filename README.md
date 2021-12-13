@@ -20,4 +20,4 @@ Final Project's learning outcome was to use OOP's 3 main characteristics namely,
 - STl Algorithms
 - File Stream (Text & Binary mode)
 - Raw and Smart Pointers
-- Multi-Threading
+- MultiThreading
